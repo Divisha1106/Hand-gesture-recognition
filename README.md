@@ -143,34 +143,70 @@ uv pip install -r requirements.txt
 python main.py
 ```
 
-## Run project:
+## Run Project
 
+After installing the dependencies, start the application using:
+
+```bash
 python main.py
-Technical Concepts Used
-Computer Vision
-Human Computer Interaction
-Real-Time Gesture Recognition
-Landmark Detection
-Cursor Mapping
-Signal Smoothing
-Motion Filtering
-Recruiter Highlights
+```
 
-This project demonstrates:
+Once the application starts:
 
-Real-time AI application development
-Computer vision implementation
-User experience optimization
-Performance tuning
-Human-machine interaction design
-Clean modular coding practices
-Future Enhancements
-Multi-hand support
-Gesture customization
-Voice + gesture hybrid control
-App-specific gesture profiles
-Deep learning based gesture recognition
-Author
+- The webcam will open automatically  
+- Hand landmarks will appear on screen  
+- The system will begin tracking palm movement  
+- Cursor movement will respond to finger position  
+- Supported gestures will trigger mouse actions  
+
+### Controls
+
+| Gesture | Action |
+|--------|--------|
+| Index finger up | Move cursor |
+| Thumb + index pinch | Left click |
+| Thumb + middle pinch | Right click |
+| Hold pinch | Drag and drop |
+| Two fingers vertical | Scroll |
+| Finger spread | Zoom |
+
+### Exit Application
+
+Press:
+
+```bash
+ESC
+```
+
+to safely close the application.
+
+---
+
+## Future Improvements
+
+Planned enhancements for the next version of the project:
+
+- Multi-hand gesture support  
+- Custom gesture configuration  
+- Voice and gesture hybrid control  
+- Application-specific gesture shortcuts  
+- Improved low-light performance  
+- AI-based gesture learning  
+- Personalized sensitivity calibration  
+- Reduced CPU usage optimization  
+- Cross-platform support for Linux and macOS  
+- Advanced gesture recognition using deep learning models  
+
+### Long-Term Vision
+
+The project can be extended into a complete touchless human-computer interaction system for:
+
+- Accessibility tools  
+- Smart presentations  
+- Medical environments  
+- Gaming control  
+- AR/VR interfaces  
+- Smart home control systems  
 
 Divisha Gurjar
 
