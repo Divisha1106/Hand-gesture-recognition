@@ -1,0 +1,15 @@
+{
+    "camera_index": 0,
+    "camera_resolution": [
+        1280,
+        720
+    ],
+    "smoothing_factor": 0.5,
+    "cursor_speed": 1.5,
+    "pinch_threshold": 0.05,
+    "gesture_cooldown": 0.3,
+    "dark_mode": true,
+    "show_fps": true,
+    "show_landmarks": true,
+    "active_region_scale": 0.6
+}
