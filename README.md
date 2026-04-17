@@ -208,11 +208,24 @@ The project can be extended into a complete touchless human-computer interaction
 - AR/VR interfaces  
 - Smart home control systems  
 
-Divisha Gurjar
+---
 
-AI & Data Science Student
-Passionate about:
+## Author
 
-Computer Vision
-AI Interfaces
-Human-Centered AI Systems
+**Divisha Gurjar**  
+AI & Data Science Student  
+
+Interested in:
+- Computer Vision  
+- Artificial Intelligence  
+- Human Computer Interaction  
+- Intelligent Automation Systems  
+
+---
+
+## Project Vision
+
+This project was developed to explore touchless human-computer interaction by combining computer vision with real-time gesture recognition.
+
+The goal is to create more natural, accessible, and efficient ways for humans to interact with digital systems.
+
