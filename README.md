@@ -108,24 +108,42 @@ These optimizations significantly improved:
 
 ## Installation
 
-repository:
-https://github.com/Divisha1106/Hand-gesture-recognition
+Follow these steps to run the project locally.
 
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Divisha1106/Hand-gesture-recognition
 cd ai-virtual-mouse
+```
 
-Create environment:
+### 2. Create virtual environment
 
-python -m venv .venv
+```bash
+uv venv
+```
 
-Activate environment (Windows):
+### 3. Activate virtual environment
 
+**Windows**
+
+```bash
 .venv\Scripts\activate
+```
 
-Install dependencies:
+### 4. Install dependencies
 
-pip install -r requirements.txt
+```bash
+uv pip install -r requirements.txt
+```
 
-Run project:
+### 5. Run the application
+
+```bash
+python main.py
+```
+
+## Run project:
 
 python main.py
 Technical Concepts Used
