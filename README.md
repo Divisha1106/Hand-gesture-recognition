@@ -1,4 +1,4 @@
-# AI Virtual Mouse using Hand Gesture Recognition
+# Hand Gesture Controlled Virtual Mouse System
 
 An intelligent computer vision based virtual mouse system that allows users to control a computer without a physical mouse by using real-time hand gestures through a webcam.
 
